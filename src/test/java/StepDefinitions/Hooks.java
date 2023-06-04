@@ -18,7 +18,7 @@ public class Hooks {
 
     public List<String> getData(){
 
-        String path = "src/test/resources/credentials.xlsx";
+        String path = "src/test/java/ApacheExcel/DataRead.xlsx";
 
         List<String> data=new ArrayList<>();
 
